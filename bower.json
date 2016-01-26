@@ -5,7 +5,7 @@
 	"main": [
 		"jquery.nestable.js",
 		"jquery.nestable.css"
-	]
+	],
 	"authors": [
 		"Sabbir Ahmed <mai@thesabbir.com>"
 	],

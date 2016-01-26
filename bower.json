@@ -1,0 +1,35 @@
+{
+	"name": "sg-nestable",
+	"version": "1.0.0",
+	"description": "Drag & drop hierarchical list with mouse and touch compatibility",
+	"main": [
+		"jquery.nestable.js",
+		"jquery.nestable.css"
+	]
+	"authors": [
+		"Sabbir Ahmed <mai@thesabbir.com>"
+	],
+	"dependencies": {
+		"jquery": "~1.4",
+		"jquery.actual": "~1.0.17"
+	},
+	"license": "MIT",
+	"keywords": [
+		"jquery",
+		"nestable",
+		"plugins",
+		"navi",
+		"json"
+	],
+	"homepage": "https://github.com/semy/jquery-menuclipper",
+	"moduleType": [
+		"globals"
+	],
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
